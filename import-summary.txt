@@ -1,0 +1,184 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .project.bak
+* ChartCbuic2.iml
+* build\
+* build\generated\
+* build\generated\source\
+* build\generated\source\buildConfig\
+* build\generated\source\buildConfig\androidTest\
+* build\generated\source\buildConfig\androidTest\debug\
+* build\generated\source\buildConfig\androidTest\debug\com\
+* build\generated\source\buildConfig\androidTest\debug\com\example\
+* build\generated\source\buildConfig\androidTest\debug\com\example\chartcbuic2\
+* build\generated\source\buildConfig\androidTest\debug\com\example\chartcbuic2\test\
+* build\generated\source\buildConfig\androidTest\debug\com\example\chartcbuic2\test\BuildConfig.java
+* build\generated\source\buildConfig\debug\
+* build\generated\source\buildConfig\debug\com\
+* build\generated\source\buildConfig\debug\com\example\
+* build\generated\source\buildConfig\debug\com\example\chartcbuic2\
+* build\generated\source\buildConfig\debug\com\example\chartcbuic2\BuildConfig.java
+* build\generated\source\r\
+* build\generated\source\r\debug\
+* build\generated\source\r\debug\com\
+* build\generated\source\r\debug\com\example\
+* build\generated\source\r\debug\com\example\chartcbuic2\
+* build\generated\source\r\debug\com\example\chartcbuic2\R.java
+* build\intermediates\
+* build\intermediates\classes\
+* build\intermediates\classes\debug\
+* build\intermediates\classes\debug\com\
+* build\intermediates\classes\debug\com\example\
+* build\intermediates\classes\debug\com\example\chartcbuic2\
+* build\intermediates\classes\debug\com\example\chartcbuic2\BuildConfig.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$attr.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$color.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$dimen.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$drawable.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$id.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$layout.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$menu.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$string.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$style.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R$styleable.class
+* build\intermediates\classes\debug\com\example\chartcbuic2\R.class
+* build\intermediates\classes\debug\com\example\chartcbuic\
+* build\intermediates\classes\debug\com\example\chartcbuic\MainActivity$1.class
+* build\intermediates\classes\debug\com\example\chartcbuic\MainActivity$WeatherData.class
+* build\intermediates\classes\debug\com\example\chartcbuic\MainActivity.class
+* build\intermediates\classes\debug\com\polonium\
+* build\intermediates\classes\debug\com\polonium\linechart\
+* build\intermediates\classes\debug\com\polonium\linechart\ChartGrid.class
+* build\intermediates\classes\debug\com\polonium\linechart\Line.class
+* build\intermediates\classes\debug\com\polonium\linechart\LineChartView$OnChartPointClickListener.class
+* build\intermediates\classes\debug\com\polonium\linechart\LineChartView.class
+* build\intermediates\classes\debug\com\polonium\linechart\LinePoint$Type.class
+* build\intermediates\classes\debug\com\polonium\linechart\LinePoint.class
+* build\intermediates\classes\debug\com\polonium\linechart\Spline.class
+* build\intermediates\classes\debug\com\polonium\linechart\TextAlign.class
+* build\intermediates\dex-cache\
+* build\intermediates\dex-cache\cache.xml
+* build\intermediates\dex\
+* build\intermediates\dex\debug\
+* build\intermediates\dex\debug\classes.dex
+* build\intermediates\incremental\
+* build\intermediates\incremental\aidl\
+* build\intermediates\incremental\aidl\androidTest\
+* build\intermediates\incremental\aidl\androidTest\debug\
+* build\intermediates\incremental\aidl\androidTest\debug\dependency.store
+* build\intermediates\incremental\aidl\debug\
+* build\intermediates\incremental\aidl\debug\dependency.store
+* build\intermediates\incremental\mergeAssets\
+* build\intermediates\incremental\mergeAssets\androidTest\
+* build\intermediates\incremental\mergeAssets\androidTest\debug\
+* build\intermediates\incremental\mergeAssets\androidTest\debug\merger.xml
+* build\intermediates\incremental\mergeAssets\debug\
+* build\intermediates\incremental\mergeAssets\debug\merger.xml
+* build\intermediates\incremental\mergeResourcesandroidTest\
+* build\intermediates\incremental\mergeResourcesandroidTest\debug\
+* build\intermediates\incremental\mergeResourcesandroidTest\debug\merger.xml
+* build\intermediates\incremental\mergeResourcesdebug\
+* build\intermediates\incremental\mergeResourcesdebug\merger.xml
+* build\intermediates\manifest\
+* build\intermediates\manifest\androidTest\
+* build\intermediates\manifest\androidTest\debug\
+* build\intermediates\manifest\androidTest\debug\AndroidManifest.xml
+* build\intermediates\manifests\
+* build\intermediates\manifests\full\
+* build\intermediates\manifests\full\debug\
+* build\intermediates\manifests\full\debug\AndroidManifest.xml
+* build\intermediates\mockable-android-21.jar
+* build\intermediates\pre-dexed\
+* build\intermediates\pre-dexed\debug\
+* build\intermediates\pre-dexed\debug\android-support-v4-ce481cb5866aa444314dde77051cff7cc42dc874.jar
+* build\intermediates\res\
+* build\intermediates\res\merged\
+* build\intermediates\res\merged\debug\
+* build\intermediates\res\merged\debug\drawable-hdpi\
+* build\intermediates\res\merged\debug\drawable-hdpi\ic_launcher.png
+* build\intermediates\res\merged\debug\drawable-mdpi\
+* build\intermediates\res\merged\debug\drawable-mdpi\ic_launcher.png
+* build\intermediates\res\merged\debug\drawable-xhdpi\
+* build\intermediates\res\merged\debug\drawable-xhdpi\ic_launcher.png
+* build\intermediates\res\merged\debug\drawable-xxhdpi\
+* build\intermediates\res\merged\debug\drawable-xxhdpi\ic_launcher.png
+* build\intermediates\res\merged\debug\layout\
+* build\intermediates\res\merged\debug\layout\activity_main.xml
+* build\intermediates\res\merged\debug\layout\fragment_main.xml
+* build\intermediates\res\merged\debug\menu\
+* build\intermediates\res\merged\debug\menu\main.xml
+* build\intermediates\res\merged\debug\values-v11\
+* build\intermediates\res\merged\debug\values-v11\values-v11.xml
+* build\intermediates\res\merged\debug\values-v14\
+* build\intermediates\res\merged\debug\values-v14\values-v14.xml
+* build\intermediates\res\merged\debug\values-w820dp\
+* build\intermediates\res\merged\debug\values-w820dp\values-w820dp.xml
+* build\intermediates\res\merged\debug\values\
+* build\intermediates\res\merged\debug\values\values.xml
+* build\intermediates\res\resources-debug-androidTest.ap_
+* build\intermediates\res\resources-debug.ap_
+* build\outputs\
+* build\outputs\apk\
+* build\outputs\apk\ChartCbuic2-debug-unaligned.apk
+* build\outputs\apk\ChartCbuic2-debug.apk
+* build\outputs\logs\
+* build\outputs\logs\manifest-merger-debug-report.txt
+* captures\
+* captures\com.example.chartcbuic2_2016.03.28_21.36.trace
+* captures\com.example.chartcbuic2_2016.03.28_22.10.trace
+* captures\com.example.chartcbuic2_2016.03.28_22.12.trace
+* captures\com.example.chartcbuic2_2016.03.28_22.16.trace
+* captures\com.example.chartcbuic2_2016.03.28_22.20.trace
+* captures\com.example.chartcbuic2_2016.03.28_22.22.trace
+* captures\com.example.chartcbuic2_2016.03.28_22.28.trace
+* captures\com.example.chartcbuic2_2016.03.28_22.30.trace
+* captures\com.hola.launcher_2016.03.28_22.02-1.trace
+* captures\com.hola.launcher_2016.03.28_22.02.trace
+* captures\com.hola.launcher_2016.03.28_22.07.trace
+* captures\com.hola.launcher_2016.03.28_22.09.trace
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
