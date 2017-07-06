@@ -1,7 +1,7 @@
-# GradientColorBuble
+# ChartCbuic21
 ## what is the main function?
- 1. It show a gradient color screen,can slide vertical to tigger light,can slide horizental to switch color,click produce buble.
+ 1. It show a custom cbuic chart with buffer effect
 
 ## Screenshot
-![shot1](https://raw.githubusercontent.com/zhuxiaogit/GradientColorBuble/master/screenshot/1.gif)
+![shot1](https://raw.githubusercontent.com/zhuxiaogit/ChartCbuic21/master/screenshot/1.gif)
 
